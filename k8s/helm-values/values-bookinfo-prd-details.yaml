@@ -1,4 +1,3 @@
-
 details:
   namespace: student96-bookinfo-prd
   image: ghcr.io/similanklinsmith/bookinfo-details
